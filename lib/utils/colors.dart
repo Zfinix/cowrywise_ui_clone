@@ -1,0 +1,126 @@
+
+  import 'package:flutter/material.dart';
+
+   const white = Colors.white;
+   const accent = Color(0x7f0400e3);
+   const action_deepblue = Color(0x7f0400e3);
+   const action_green = Color(0xff2ac38c);
+   const action_lightblue = Color(0xff5778db);
+   const action_yellow = Color(0xfffcc459);
+   const badge_green = Color(0xff58cc58);
+   const biometric_error_color = Color(0xffff5722);
+   const browser_actions_bg_grey = Color(0xfff5f5f5);
+   const browser_actions_title_color = Color(0xff646464);
+   const button_material_dark = Color(0xff5a595b);
+   const button_material_light = Color(0xffd6d7d7);
+   const cardLightBlue = Color(0x7f0400f0);
+   const cardview_dark_background = Color(0xff424242);
+   const cardview_light_background = Color(0xffffffff);
+   const circleBlue = Color(0xffbce5f7);
+   
+   const colorAccent = Color(0xff7aaef5);
+   const colorAccentGrey = Color(0xffa6a6a6);
+   const colorAccentGreyDark = Color(0xff0e2869);
+   const colorAccentGreyLight = Color(0xff7d95b6);
+   const colorAccentLightBlue = Color(0xff5ac8fa);
+   const colorAccentLightGreen = Color(0xff83e2a4);
+   const colorAccentYellow = Color(0xfff5a623);
+   const colorBlue2 = Color(0xff2457f5);
+   const colorBlue3 = Color(0xff4899f7);
+   const colorBright = Color(0xffff5722);
+   const colorCardBlue = Color(0xff0066f5);
+   const colorChipbg = Color(0xfff3f6ff);
+   const colorCirlceBadge = Color(0xffcfebfe);
+
+   const colorDarkCard = colorAccentGreyDark;
+   const colorGoalsBusiness = Color(0xfff9f7ff);
+   const colorGoalsEducation = Color(0xffe1f6ff);
+   const colorGoalsEmergency = Color(0xfffffae6);
+   const colorGoalsFamily = Color(0xfffff0f4);
+   const colorGoalsHome = Color(0xffecfbec);
+   const colorGoalsRetirement = Color(0xfff1f4ff);
+   const colorGoalsVacation = Color(0xfffffae6);
+   const colorGreen = Color(0xff58cc58);
+   const colorGreenAlpha = Color(0xffe4faf0);
+   const colorGrey = Color(0xfff6f6f6);
+   const colorGreyBackground = Color(0xfff4f5f6);
+   const colorGreyWhite = Color(0xfff7f8fa);
+
+   const colorHeadsUp = Color(0xffecf9ff);
+   const colorHueBlue = Color(0xff54a3e8);
+   const colorIcon = Color(0xff253858);
+   const colorImageBg = Color(0x80dbefff);
+   const colorInactiveTabTextColor = Color(0x80ffffff);
+   const colorInfoCardBg = Color(0xe6f5f6fa);
+   const colorInnerBackground = Color(0xfff2f2f7);
+   const colorInvestLight = Color(0xffe6faff);
+   const colorLightNavy = Color(0xfff5f6fa);
+   const colorLightWhiteBlue = Color(0x33ffffff);
+   const colorLinkCard = Color(0xffeff8ff);
+   const colorNavy = Color(0xff6c82a3);
+   const colorNavyLight = Color(0xffb6c0d1);
+   const colorOnWhite = Color(0xffffffff);
+   const colorOrange = Color(0xfff48c0f);
+   const colorOrangeLight = Color(0x4affa000);
+   const colorPaystack = Color(0xff011b33);
+   const colorPlan = Color(0xffdbf3ff);
+   const colorPlanSelection = Color(0xffe1f6ff);
+   const colorPriceDown = Color(0xfff05127);
+   const colorPrimary = Color(0xff3d8af5);
+   const colorPrimaryDark = Color(0xff0066f5);
+
+   const colorPrimaryDarkShadow = Color(0xff0066f5);
+   const colorPrimaryLight = Color(0xffbbdefb);
+   const colorProgress = colorAccent;
+   const colorPrompt = Color(0xff91b6e7);
+   const colorPurple = Color(0xff673ab7);
+   const colorPurpleLight = Color(0xffb39ddb);
+   const colorRed = Color(0xffff0000);
+   const colorShimmer = Color(0xffdddddd);
+   const colorSkyBlue = Color(0xff5ac8fb);
+   const colorStashBack = Color(0xfff5f6f9);
+   const colorTextBlue = Color(0xff0066f5);
+   const colorTextDark = Color(0xff0e2869);
+   const colorTextDark20 = Color(0x330e2869);
+   const colorTextDark70 = Color(0x800e2869);
+   const colorTextDark90 = Color(0xb30e2869);
+   const colorTextDarkInactive = Color(0xff8696b4);
+   const colorTextIdle = Color(0xff9aa7c5);
+   const colorTextWhite = Color(0xffffffff);
+   const colorTopUp = Color(0xffe8fbe7);
+   const colorVacation = Color(0xff5ac8fa);
+   const colorWhite = Color(0xffffffff);
+   
+   const dim_foreground_material_dark = Color(0xffbebebe);
+   const dim_foreground_material_light = Color(0xff323232);
+   const error_color_material_dark = Color(0xffff7043);
+   const error_color_material_light = Color(0xffff5722);
+   const golden_stars = Color(0xffffc619);
+   const google_blue = Color(0xff4285f4);
+   const google_green = Color(0xff34a853);
+   const google_red = Color(0xffea4335);
+   const google_yellow = Color(0xfffbbc05);
+   const ic_launcher_background = Color(0xff0067f5);
+
+   const introBackground = Color(0xffffffff);
+   const lightPurple = Color(0xfff3f6ff);
+   const materialDeepOrange = Color(0xffff5722);
+   const materialDeepPurple = Color(0xff673ab7);
+   const materialIndigo = Color(0xff3f51b5);
+   const materialOrange = Color(0xffff9800);
+   const materialTeal = Color(0xff009688);
+   const material_blue_grey_800 = Color(0xff37474f);
+   const material_blue_grey_900 = Color(0xff263238);
+   const material_blue_grey_950 = Color(0xff21272b);
+   const material_deep_teal_200 = Color(0xff80cbc4);
+   const material_deep_teal_500 = Color(0xff008577);
+  
+   const material_grey_100 = Color(0xfff5f5f5);
+   const material_grey_300 = Color(0xffe0e0e0);
+   const material_grey_50 = Color(0xfffafafa);
+   const material_grey_600 = Color(0xff757575);
+   const material_grey_800 = Color(0xff424242);
+   const material_grey_850 = Color(0xff303030);
+   const material_grey_900 = Color(0xff212121);
+
+   
